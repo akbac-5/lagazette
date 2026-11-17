@@ -1,0 +1,6 @@
+python
+feedparser
+regex
+ipynb
+pprintpp
+ipykernel
